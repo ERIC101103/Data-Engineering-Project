@@ -2,13 +2,13 @@
 
 ## Ausgangslage und Ziel
 
-Ich möchte lernen, eine Azure-Datenplattform mit Terraform bereitzustellen. Mein erster durchgängiger Anwendungsfall ist die Frage „Welchen Status und welchen letzten Checkpoint hat Projekt P-1001?“ Die Antwort soll aus einem synthetischen Batch stammen, dessen Weg von der Quelldatei bis zur Gold-Tabelle nachvollziehbar ist.
+Ziel ist die Erstellung einer Azure Datenplattform mit Terraform (Infastructure as Code).
 
 Die Kursvorgaben sind **100 € Azure-Guthaben**, ein nachvollziehbares Terraform-Deployment, ein nächtlicher Pipeline-Lauf, Bronze/Silver/Gold mit SQL-Anteil, Agent-Code, eine begründete Plattformwahl, eine Fünfjahres-TCO und eine Abschlusspräsentation mit Übergabe.
 
 ## Meilensteine
 
-Die Reihenfolge ist ein Startvorschlag. Ich trage Termine ein, sobald ich den Abgabetermin und meine verfügbaren Projektzeiten kenne.
+Die Reihenfolge ist ein erster Entwurf der Vorgehensweise.
 
 | Phase | Was ich umsetze | Woran ich den Abschluss erkenne | Status |
 | --- | --- | --- | --- |
