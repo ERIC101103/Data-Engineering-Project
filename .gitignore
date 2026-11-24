@@ -1,0 +1,21 @@
+# Terraform state, local cache, plans and credentials
+**/.terraform/*
+*.tfstate*
+*.tfplan
+*.plan
+crash.log
+crash.*.log
+*.tfvars
+*.tfvars.json
+!*.example.tfvars
+!*.example.tfvars.json
+.terraformrc
+terraform.rc
+
+# Local credentials and execution artifacts
+.env
+.env.*
+!.env.example
+.databrickscfg
+**/__pycache__/
+.venv/
